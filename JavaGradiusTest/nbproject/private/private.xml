@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/javaGradius/JavaGradiusCollisionTest/src/entity/enemy/EnemyDucker.java</file>
+            <file>file:/D:/javaGradius/JavaGradiusCollisionTest/src/entity/enemy/EnemyE.java</file>
+            <file>file:/D:/javaGradius/JavaGradiusCollisionTest/src/entity/enemy/EnemyF.java</file>
+            <file>file:/D:/javaGradius/JavaGradiusCollisionTest/src/entity/PowerUpRed.java</file>
+            <file>file:/D:/javaGradius/JavaGradiusCollisionTest/src/infra/Keyboard.java</file>
+            <file>file:/D:/javaGradius/JavaGradiusCollisionTest/src/entity/PowerUpBlue.java</file>
+            <file>file:/D:/javaGradius/JavaGradiusCollisionTest/src/entity/EnemyBullet.java</file>
+            <file>file:/D:/javaGradius/JavaGradiusCollisionTest/src/entity/ShipExplosion.java</file>
+            <file>file:/D:/javaGradius/JavaGradiusCollisionTest/src/infra/Trail.java</file>
+            <file>file:/D:/javaGradius/JavaGradiusCollisionTest/src/infra/Assets.java</file>
+            <file>file:/D:/javaGradius/JavaGradiusCollisionTest/src/res/image/ship_bullet.png</file>
+            <file>file:/D:/javaGradius/JavaGradiusCollisionTest/src/infra/HUD.java</file>
+            <file>file:/D:/javaGradius/JavaGradiusCollisionTest/src/entity/enemy/EnemyA.java</file>
+            <file>file:/D:/javaGradius/JavaGradiusCollisionTest/src/entity/Ship.java</file>
+            <file>file:/D:/javaGradius/JavaGradiusCollisionTest/src/entity/ship/weapon/Option.java</file>
+            <file>file:/D:/javaGradius/JavaGradiusCollisionTest/src/infra/Time.java</file>
+            <file>file:/D:/javaGradius/JavaGradiusCollisionTest/src/entity/ship/weapon/Missile.java</file>
+            <file>file:/D:/javaGradius/JavaGradiusCollisionTest/src/infra/Constants.java</file>
+            <file>file:/D:/javaGradius/JavaGradiusCollisionTest/src/entity/enemy/EnemyB.java</file>
+            <file>file:/D:/javaGradius/JavaGradiusCollisionTest/src/infra/CollisionBuffer.java</file>
+            <file>file:/D:/javaGradius/JavaGradiusCollisionTest/src/infra/View.java</file>
+            <file>file:/D:/javaGradius/JavaGradiusCollisionTest/src/infra/Terrain.java</file>
+            <file>file:/D:/javaGradius/JavaGradiusCollisionTest/src/entity/enemy/EnemyDee01.java</file>
+            <file>file:/D:/javaGradius/JavaGradiusCollisionTest/src/entity/ship/weapon/Laser.java</file>
+            <file>file:/D:/javaGradius/JavaGradiusCollisionTest/src/res/image/enemy_bullet_0.png</file>
+            <file>file:/D:/javaGradius/JavaGradiusCollisionTest/src/entity/enemy/EnemyD.java</file>
+            <file>file:/D:/javaGradius/JavaGradiusCollisionTest/src/infra/Entity.java</file>
+            <file>file:/D:/javaGradius/JavaGradiusCollisionTest/src/entity/enemy/EnemyC.java</file>
+            <file>file:/D:/javaGradius/JavaGradiusCollisionTest/src/entity/EnemyExplosion.java</file>
+            <file>file:/D:/javaGradius/JavaGradiusCollisionTest/src/entity/ship/weapon/BulletDouble.java</file>
+            <file>file:/D:/javaGradius/JavaGradiusCollisionTest/src/infra/Audio.java</file>
+            <file>file:/D:/javaGradius/JavaGradiusCollisionTest/src/entity/ship/weapon/ShipBullet.java</file>
+            <file>file:/D:/javaGradius/JavaGradiusCollisionTest/src/infra/PowerUpManager.java</file>
+        </group>
+    </open-files>
+</project-private>
